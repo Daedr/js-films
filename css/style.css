@@ -1,0 +1,33 @@
+img {
+    width: 350px;
+    height: 500px;
+}
+body {
+    background-color: grey;
+   }
+#film {
+    float: left;
+}
+#filmInfo {
+    max-width: 350px;
+    text-align: center;
+
+}
+#filmTitle {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+#filmYear {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+}
+
+.container {
+    margin: 50px 0 0 100px;
+}
+.btn {
+    display: block;
+    margin: 10px;
+}
